@@ -5,7 +5,7 @@ The project "Superstore Sales Analysis" aims to gain insights into sales trends,
 
 The main objectives are to:
 
-• Identify sales trends and patterns to optimize inventory management and sales forecasting /n
+- Identify sales trends and patterns to optimize inventory management and sales forecasting
 • Understand customer demographics, preferences and purchase patterns to develop targeted marketing strategies
 • Improve operational efficiency by identifying bottlenecks and optimizing resource allocation
 • Provide data-driven recommendations to optimize store performance and profitability
