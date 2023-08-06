@@ -25,8 +25,8 @@ Tools and Technologies used:
 
 Future Methodologies:
 
-• Customer Segmentation: Clustering algorithms (K-means, Hierarchical clustering)
+• Customer Segmentation: Clustering algorithms (K-means, Hierarchical clustering).
 
-• Geospatial Analysis: Python (Geopandas, Folium) 
+• Geospatial Analysis: Python (Geopandas, Folium).
 
-• Data Visualization: Tableau, Power BI, Python visualization Plotly libraries
+• Data Visualization: Tableau, Power BI, Python visualization Plotly libraries.
