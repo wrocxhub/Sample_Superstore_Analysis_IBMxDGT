@@ -5,23 +5,23 @@ The project "Superstore Sales Analysis" aims to gain insights into sales trends,
 
 The main objectives are to:
 
-• Identify sales trends and patterns to optimize inventory management and sales forecasting
+• Identify sales trends and patterns to optimize inventory management and sales forecasting.
 
-• Understand customer demographics, preferences and purchase patterns to develop targeted marketing strategies
+• Understand customer demographics, preferences and purchase patterns to develop targeted marketing strategies.
 
-• Improve operational efficiency by identifying bottlenecks and optimizing resource allocation
+• Improve operational efficiency by identifying bottlenecks and optimizing resource allocation.
 
-• Provide data-driven recommendations to optimize store performance and profitability
+• Provide data-driven recommendations to optimize store performance and profitability.
 
 Tools and Technologies used:
 
-• Data Cleaning and Preparation: Python (Pandas, NumPy)
+• Data Cleaning and Preparation: Python (Pandas, NumPy).
 
-• Exploratory Data Analysis: Python (Matplotlib, Seaborn)
+• Exploratory Data Analysis: Python (Matplotlib, Seaborn).
 
-• Sales Forecasting: Time series analysis
+• Sales Forecasting: Time series analysis.
 
-• Data Visualization: Plotly & Matplotlib 
+• Data Visualization: Plotly & Matplotlib.
 
 Future Methodologies:
 
